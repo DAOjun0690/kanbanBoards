@@ -1,4 +1,4 @@
-<%--
+﻿<%--
   Created by IntelliJ IDEA.
   User: Satellite
   Date: 2018/10/9
@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
+
   </head>
   <body>
   $END$
